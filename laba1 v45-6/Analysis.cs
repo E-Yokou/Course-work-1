@@ -52,42 +52,38 @@ namespace laba1_v45_6
             {
                 try
                 {
-                    if (Lexems.IsOperator(subText) && (s == ' ' || s == '<' || s == '>' || s == ';'))
+                    if (Lexems.IsOperator(subText) && (s == ' ' || s == '<' || s == '>' || s == ';' || s == '\n'))
                     {
                         i++;
                         parts.Add(i.ToString() + " ", subText + " - Идентификатор - оператор;");
                         subText = "";
                     }
-                    else if (Lexems.IsLiteral(subText) && (s == ' ' || s == ';' || s == ')'))
+                    else if (Lexems.IsLiteral(subText) && (s == ' ' || s == ';' || s == ')' || s == '\n'))
                     {
                         i++;
                         parts.Add(i.ToString() + " ", subText + " - Литератор;");
                         subText = "";
                     }
-                    else if (Lexems.IsSeparator(subText) && (s == ' ' || s == ')' || char.IsDigit(s) || char.IsLetter(s)))
+                    else if (Lexems.IsSeparator(subText) && (s == ' ' || s == ')' || char.IsDigit(s) || char.IsLetter(s) || s == '\n'))
                     {
                         i++;
                         if (subText != "\n")
                         {
                             parts.Add(i.ToString() + " ", subText + " - Разделитель;");
                         }
-                        else if (subText == "\n")
-                        {
-                            subText = "'/n'";
-                            parts.Add(i.ToString() + " ", subText + " - Разделитель (символ новой строки);");
-                        }
+                        
                         else if (subText == "&&")
                             parts.Add(i.ToString() + " ", subText + " - Разделитель (логический операнд);");
 
                         subText = "";
                     }
-                    else if (Lexems.IsIDVariable(subText) && !Lexems.IsOperator(subText) && (s == ' ' || s == '<' || s == '>' || s == ';' || s == '+' || s == '-' || s == '*' || s == '/' || s == ',' || s == '(' || s == ')'))
+                    else if (Lexems.IsIDVariable(subText) && !Lexems.IsOperator(subText) && (s == ' ' || s == '<' || s == '>' || s == ';' || s == '+' || s == '-' || s == '*' || s == '/' || s == ',' || s == '(' || s == ')' || s == '\n'))
                     {
                         i++;
                         parts.Add(i.ToString() + " ", subText + " - Идентификатор - переменная;");
                         subText = "";
                     }
-                    else if (subText == Environment.NewLine || subText == " ")
+                    else if (subText == Environment.NewLine || subText == " " || s == '\n')
                     {
                         subText = "";
                     }
