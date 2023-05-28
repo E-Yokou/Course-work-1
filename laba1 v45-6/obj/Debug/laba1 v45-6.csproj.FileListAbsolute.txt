@@ -1,0 +1,76 @@
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe.config
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csprojAssemblyReference.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Form1.resources
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Properties.Resources.resources
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.GenerateResource.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab1\laba1 v4 (ne rabotaet v shpiduli nihya)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe.config
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Form1.resources
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Properties.Resources.resources
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.GenerateResource.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.AssemblyReference.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab2\laba2\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.SuggestedBindingRedirects.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe.config
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.AssemblyReference.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Form1.resources
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Properties.Resources.resources
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.GenerateResource.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab3\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.SuggestedBindingRedirects.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe.config
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.AssemblyReference.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.SuggestedBindingRedirects.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Form1.resources
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Properties.Resources.resources
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.GenerateResource.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Теория автоматов и формальных языков\lab4\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe.config
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.pdb
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Form1.resources
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
+C:\Users\eduar\OneDrive\Рабочий стол\Курсовая (Remake)\laba1 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe.config
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Form1.resources
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Properties.Resources.resources
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.GenerateResource.cache
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.AssemblyReference.cache
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.SuggestedBindingRedirects.cache
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe.config
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.pdb
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.AssemblyReference.cache
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.SuggestedBindingRedirects.cache
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Form1.resources
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Properties.Resources.resources
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.GenerateResource.cache
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
+E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb
