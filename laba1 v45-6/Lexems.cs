@@ -12,7 +12,7 @@ namespace laba1_v45_6
 
         public static bool IsOperator(string text)
         {
-            return text == "main" || text == "if" || text == "else" || text == "int";
+            return text == "main" || text == "if" || text == "else" || text == "int" ||  text == "bool" || text == "string";
         }
 
         public static bool IsSeparator(string text)

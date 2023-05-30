@@ -72,6 +72,7 @@ namespace laba1_v45_6
                tokens[i].Type != Token.TokenType.BOOL &&
                tokens[i].Type != Token.TokenType.STRING)
                 throw new Exception($"7\nSTRING: {i + 1} - Ожидалось: INT, BOOL, STRING, а получено: {tokens[i].Value}");
+            
             Opis();
             
             DopOpis();
@@ -82,14 +83,11 @@ namespace laba1_v45_6
         {
             Type();
             SpisPerem();
-            
         }
 
         public void Type()
         {
-            if (tokens[i].Type != Token.TokenType.INT &&
-               tokens[i].Type != Token.TokenType.BOOL &&
-               tokens[i].Type != Token.TokenType.STRING)
+            if (tokens[i].Type != Token.TokenType.INT && tokens[i].Type != Token.TokenType.BOOL && tokens[i].Type != Token.TokenType.STRING)
                 throw new Exception($"8\nSTRING: {i + 1} - Ожидалось: INT, BOOL, STRING, а получено: {tokens[i].Value}");
             Next();
         }
@@ -102,7 +100,6 @@ namespace laba1_v45_6
                 X();
             }
             else throw new Exception($"9\nSTRING: {i + 1} - Ожидалось: IDENTIFIER, а получено: {tokens[i].Value}");
-            
         }
 
         public void X()
@@ -139,8 +136,6 @@ namespace laba1_v45_6
                 throw new Exception($"12\nSTRING: {i + 1} - Ожидалось: IDENTIFIER, а получено: {tokens[i].Value}");
             Next();
             X();
-
-            
         }
 
         public void DopOpis()
@@ -171,6 +166,7 @@ namespace laba1_v45_6
 
             if(tokens[i].Type != Token.TokenType.VARIABLE)
                 throw new Exception($"15\nSTRING: {i + 1} - Ожидалось: идентификатор, а получено: {tokens[i].Value}");
+            
             Oper();
             DopOper();
             
@@ -197,10 +193,6 @@ namespace laba1_v45_6
                 case Token.TokenType.CURLYBRACECLOSE:
                     break;
 
-                //case Token.TokenType.ENTER:
-                //    
-                //    break;
-
                 default: throw new Exception($"16\nSTRING: {i + 1} - Ожидалось: условие или идентификатор, а получено: {tokens[i].Value}");
             }
 
@@ -224,22 +216,22 @@ namespace laba1_v45_6
                 throw new Exception($"18\nSTRING: {i + 1} - Ожидалось: '(', а получено: {tokens[i].Value}");
             Next();
 
-            if (tokens[i].Type != Token.TokenType.CURLYBRACEOPEN)
+            if (tokens[i].Type == Token.TokenType.CURLYBRACEOPEN)
                 Next();
 
             BlockOper();
 
-            if (tokens[i].Type != Token.TokenType.CURLYBRACECLOSE)
+            if (tokens[i].Type == Token.TokenType.CURLYBRACECLOSE)
                 Next();
 
             DopYslov();
             
         }
 
-        public void Expr() 
+        public void Expr()  
         {
             List<Token> inmet = new List<Token>();
-            while (tokens[i].Type != Token.TokenType.RPAR)
+            while (tokens[i+1].Type != TokenType.CURLYBRACEOPEN)
             {
                 inmet.Add(tokens[i]);
                 Next();
@@ -264,24 +256,18 @@ namespace laba1_v45_6
             }
             Token k = new Token(TokenType.EXPR);
             lexemStack.Push(k);
-
-            //while (tokens[i].Type != Token.TokenType.RPAR)
-            //{
-            //    Next();
-            //}
-            //Next();
-            //
         }
 
         public void BlockOper()
         {
-            Oper();
-            Next();
-            
+            if (tokens[i].Type == Token.TokenType.VARIABLE)
+                Oper(); Next();
+
+
             if (tokens[i].Type == Token.TokenType.CURLYBRACEOPEN)
-                Next();
-                SpisOper();
-            
+                Next(); SpisOper();
+
+
         }
 
         public void DopYslov()
@@ -307,32 +293,33 @@ namespace laba1_v45_6
 
         public void DopYslov2()
         {
+            //if (tokens[i].Type == Token.TokenType.ELSE)
+            //    Expr();
+
             if (tokens[i].Type == Token.TokenType.ELSE)
-                Expr();
-            
+                BlockOper();
         }
 
         public void Prisv()
         {
             if (tokens[i].Type != Token.TokenType.VARIABLE)
-                throw new Exception($"20\nSTRING: {i + 1} - Ожидалось: идентификатор, а получено: {tokens[i].Value}");
+                throw new Exception($"STRING: {i + 1} - Ожидалось: идентификатор, а получено: {tokens[i].Value}");
             Next();
             if (tokens[i].Type != Token.TokenType.EQUAL)
-                throw new Exception($"21\nSTRING: {i + 1} - Ожидалось: '=', а получено: {tokens[i].Value}");
+                throw new Exception($"STRING: {i + 1} - Ожидалось: '=', а получено: {tokens[i].Value}");
             Next();
 
             Operand();
             DopPrisv();
-            
         }
 
         public void SpisOper()
         {
             
             if (tokens[i].Type != Token.TokenType.IF && tokens[i].Type != Token.TokenType.VARIABLE 
-                && tokens[i].Type != Token.TokenType.CURLYBRACECLOSE)
+                && tokens[i].Type != Token.TokenType.CURLYBRACECLOSE && tokens[i].Type != Token.TokenType.LPAR)
                 throw new Exception($"22\nSTRING: {i + 1} - Ожидалось: условие, идентификатор или открывающаяся фигурная скобка, а получено: {tokens[i].Value}");
-            //Next();
+            
             Oper();
             DopOper();
             

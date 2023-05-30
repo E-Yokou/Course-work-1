@@ -34,6 +34,10 @@ namespace laba1_v45_6
             button3.Enabled = true;
             button4.Enabled = true;
             button5.Enabled = true;
+
+            richTextBox1.Clear();
+            richTextBox3.Clear();
+            richTextBox4.Clear();
         }
 
         private void button2_Click(object sender, EventArgs e) //get analys
@@ -102,5 +106,28 @@ namespace laba1_v45_6
             catch { MessageBox.Show("ERROR!\nТекстовое поле пустое!"); }
         }
 
+        private void richTextBox4_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                int firstcharindex = richTextBox3.GetFirstCharIndexOfCurrentLine();
+                int currentline = richTextBox3.GetLineFromCharIndex(firstcharindex);
+                string currentlinetext = richTextBox3.Lines[currentline];
+                richTextBox3.Select(firstcharindex, currentlinetext.Length + 1);
+            }
+            catch { MessageBox.Show("ERROR!\nТекстовое поле пустое!"); }
+        }
+
+        private void richTextBox4_MouseClick(object sender, MouseEventArgs e)
+        {
+            try
+            {
+                int firstcharindex = richTextBox4.GetFirstCharIndexOfCurrentLine();
+                int currentline = richTextBox4.GetLineFromCharIndex(firstcharindex);
+                string currentlinetext = richTextBox4.Lines[currentline];
+                richTextBox4.Select(firstcharindex, currentlinetext.Length + 1);
+            }
+            catch { MessageBox.Show("ERROR!\nТекстовое поле пустое!"); }
+        }
     }
 }

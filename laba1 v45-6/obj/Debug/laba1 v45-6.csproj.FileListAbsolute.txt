@@ -74,3 +74,14 @@ E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\l
 E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
 E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
 E:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe.config
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\bin\Debug\laba1 v45-6.pdb
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.AssemblyReference.cache
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.SuggestedBindingRedirects.cache
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Form1.resources
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\obj\Debug\laba1_v45_6.Properties.Resources.resources
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.GenerateResource.cache
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.csproj.CoreCompileInputs.cache
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.exe
+F:\WorkFlash\2 КУРС\Курсовая\Курсовая (Remake)\CourseWorkTrue\laba4 v45-6\laba1 v45-6\obj\Debug\laba1 v45-6.pdb

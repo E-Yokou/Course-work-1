@@ -90,7 +90,6 @@ namespace laba1_v45_6
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(300, 20);
             this.textBox1.TabIndex = 4;
-            this.textBox1.Text = "F:\\WorkFlash\\2 КУРС\\Теория автоматов и формальных языков\\test2.txt";
             // 
             // button3
             // 
@@ -132,6 +131,8 @@ namespace laba1_v45_6
             this.richTextBox4.Size = new System.Drawing.Size(300, 386);
             this.richTextBox4.TabIndex = 10;
             this.richTextBox4.Text = "";
+            this.richTextBox4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.richTextBox4_MouseClick);
+            this.richTextBox4.TextChanged += new System.EventHandler(this.richTextBox4_TextChanged);
             // 
             // label1
             // 
